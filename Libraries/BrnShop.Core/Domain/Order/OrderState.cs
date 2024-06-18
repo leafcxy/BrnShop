@@ -38,6 +38,10 @@ namespace BrnShop.Core
         /// <summary>
         /// 取消
         /// </summary>
-        Cancelled = 160
+        Cancelled = 160,
+        /// <summary>
+        /// 退货
+        /// </summary>
+        Returned = 180
     }
 }
